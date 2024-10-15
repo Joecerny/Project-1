@@ -7,6 +7,6 @@ public class SceneReplay : MonoBehaviour
 {
     public void LoadScene()
     {
-        SceneManager.LoadScene("Exit Scene");
+        SceneManager.LoadScene("Outro");
     }
 }
