@@ -7,6 +7,6 @@ public class LoadNextScene : MonoBehaviour
 {
     public void LoadScene()
     {
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene("Main Menu");
     }
 }
